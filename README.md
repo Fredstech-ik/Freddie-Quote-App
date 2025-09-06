@@ -32,7 +32,7 @@ The app fetches quotes from an external API and displays them dynamically, allow
 
 ## 🌍 Live Demo
 
-👉 [View Live App](https://your-vercel-url.vercel.app/)
+👉 [View Live App](https://freddie-quote-app-imxs.vercel.app/quote-preview.png)
 
 ---
 

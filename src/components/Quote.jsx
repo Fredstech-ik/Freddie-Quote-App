@@ -53,7 +53,7 @@ function Quote() {
   return (
     <div className="bg-blue-950 w-[40rem] my-[10rem] mx-auto p-12 rounded-[5px]">
       <div className="text-[2rem] text-white mb-6">
-        <p>"{quote}"</p>
+        <p>{quote}</p>
       </div>
       <div className="flex justify-end text-[1.2rem] text-white">
         <p>{author}</p>
